@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dev.penarrubia@gmail.com
+	name = LucasPenarrubia
